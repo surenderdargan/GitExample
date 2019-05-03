@@ -13,4 +13,14 @@ public class AppiumTest {
    public void Method4() {
 		System.out.println("Method4");
 	}
+	
+	@Test
+	public void Method5() {
+		System.out.println("Method5");
+	}
+	
+	@Test
+   public void Method6() {
+		System.out.println("Method6");
+	}
 }
