@@ -9,8 +9,5 @@ public class APITest {
 		System.out.println("Method1");
 	}
 	
-	@Test
-   public void Method2() {
-		System.out.println("Method2");
-	}
+
 }
